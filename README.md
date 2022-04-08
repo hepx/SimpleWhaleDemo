@@ -1,4 +1,4 @@
-# docker github ci/cd 演示项目
+# docker github CI/CD 演示项目
 ## docker-whale
 
 Run me : `docker run -p80:80 ushamandya/whale-example`
